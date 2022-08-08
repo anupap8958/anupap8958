@@ -3,19 +3,10 @@
 ## I'm an Computer Science student at the Silpakorn University 🎓✨
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Blockchain 
 - ⚡ Fun fact: I love to playing guitar🎸 and basketball🏀
 
 ### Connect with me:
 
-<a href = "https://www.youtube.com/channel/UC5_dGhYhFUxiQYTE7kno9cA" target="blank">
-  <img src="https://img.icons8.com/doodle/48/000000/youtube-play--v2.png" height='40' width="40"/>
-</a>
-&nbsp;&nbsp;
-<a href = "https://www.facebook.com/profile.php?id=100003090333782" target="blank">
-  <img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" height='40' width="40"/>
-</a>
-&nbsp;&nbsp;
 <a href = "mailto:a.tubtimsan@gmail.com" target="blank">
   <img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" height='40' width="40"/>
 </a>
