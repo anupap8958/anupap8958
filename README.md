@@ -44,13 +44,13 @@
 ### 📊 GitHub Stats:
 ---
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=anupap8958&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anupap8958&&show_icons=true&theme=tokyonight"/>
 </div>
 
 ### 💡 My Languages :
 ---
 </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupap8958&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anupap8958&layout=compact&theme=tokyonight"/>
 </div>
 <!-- 
 ### 🏆 GitHub Profile Trophy:
